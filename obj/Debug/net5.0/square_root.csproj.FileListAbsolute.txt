@@ -1,0 +1,16 @@
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.csproj.AssemblyReference.cache
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.AssemblyInfoInputs.cache
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.AssemblyInfo.cs
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.csproj.CoreCompileInputs.cache
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\square_root.exe
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\square_root.deps.json
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\square_root.runtimeconfig.json
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\square_root.runtimeconfig.dev.json
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\square_root.dll
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\ref\square_root.dll
+F:\C#\Tut Tests\practice_codes\square_root\bin\Debug\net5.0\square_root.pdb
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.dll
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\ref\square_root.dll
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.pdb
+F:\C#\Tut Tests\practice_codes\square_root\obj\Debug\net5.0\square_root.genruntimeconfig.cache
